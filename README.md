@@ -9,6 +9,8 @@
 
 # Introduction
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Mattlk13/Bluebird.svg)](https://greenkeeper.io/)
+
 Bluebird is a fully featured promise library with focus on innovative features and performance
 
 See the [**bluebird website**](http://bluebirdjs.com/docs/getting-started.html) for further documentation, references and instructions. See the [**API reference**](http://bluebirdjs.com/docs/api-reference.html) here.
