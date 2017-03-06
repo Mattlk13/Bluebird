@@ -1,9 +1,8 @@
 ---
+title: Generators
 layout: api
 id: generators
-title: Generators
 ---
-
 
 [← Back To API Reference](/docs/api-reference.html)
 <div class="api-code-section"><markdown>

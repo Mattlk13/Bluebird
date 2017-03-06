@@ -1,9 +1,8 @@
 ---
+title: ".isRejected"
 layout: api
 id: isrejected
-title: .isRejected
 ---
-
 
 [← Back To API Reference](/docs/api-reference.html)
 <div class="api-code-section"><markdown>

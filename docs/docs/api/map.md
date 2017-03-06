@@ -1,9 +1,8 @@
 ---
+title: ".map"
 layout: api
 id: map
-title: .map
 ---
-
 
 [← Back To API Reference](/docs/api-reference.html)
 <div class="api-code-section"><markdown>

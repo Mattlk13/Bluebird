@@ -1,9 +1,8 @@
 ---
+title: Promise.filter
 layout: api
 id: promise.filter
-title: Promise.filter
 ---
-
 
 [← Back To API Reference](/docs/api-reference.html)
 <div class="api-code-section"><markdown>

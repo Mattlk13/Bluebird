@@ -1,6 +1,6 @@
 ---
-id: coming-from-other-libraries
 title: Coming from Other Libraries
+id: coming-from-other-libraries
 ---
 
 This page is a reference for migrating to bluebird from other flow control or promise libraries. See [installation](install.html) on how to use bluebird in your environment.

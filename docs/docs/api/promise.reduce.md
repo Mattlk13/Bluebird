@@ -1,9 +1,8 @@
 ---
+title: Promise.reduce
 layout: api
 id: promise.reduce
-title: Promise.reduce
 ---
-
 
 [← Back To API Reference](/docs/api-reference.html)
 <div class="api-code-section"><markdown>

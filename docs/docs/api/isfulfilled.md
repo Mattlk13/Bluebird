@@ -1,9 +1,8 @@
 ---
+title: ".isFulfilled"
 layout: api
 id: isfulfilled
-title: .isFulfilled
 ---
-
 
 [← Back To API Reference](/docs/api-reference.html)
 <div class="api-code-section"><markdown>

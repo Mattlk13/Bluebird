@@ -1,9 +1,8 @@
 ---
+title: Promise.fromCallback
 layout: api
 id: promise.fromcallback
-title: Promise.fromCallback
 ---
-
 
 [← Back To API Reference](/docs/api-reference.html)
 <div class="api-code-section"><markdown>

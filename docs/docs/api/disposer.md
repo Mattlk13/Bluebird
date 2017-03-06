@@ -1,9 +1,8 @@
 ---
+title: ".disposer"
 layout: api
 id: disposer
-title: .disposer
 ---
-
 
 [← Back To API Reference](/docs/api-reference.html)
 <div class="api-code-section"><markdown>

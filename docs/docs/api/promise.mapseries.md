@@ -1,9 +1,8 @@
 ---
+title: Promise.mapSeries
 layout: api
 id: promise.mapseries
-title: Promise.mapSeries
 ---
-
 
 [← Back To API Reference](/docs/api-reference.html)
 <div class="api-code-section"><markdown>

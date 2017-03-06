@@ -1,9 +1,8 @@
 ---
+title: ".then"
 layout: api
 id: then
-title: .then
 ---
-
 
 [← Back To API Reference](/docs/api-reference.html)
 <div class="api-code-section"><markdown>

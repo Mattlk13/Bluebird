@@ -1,9 +1,8 @@
 ---
+title: Progression migration
 layout: api
 id: progression-migration
-title: Progression migration
 ---
-
 
 [← Back To API Reference](/docs/api-reference.html)
 <div class="api-code-section"><markdown>

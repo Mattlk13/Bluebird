@@ -1,6 +1,6 @@
 ---
-id: features
 title: Features
+id: features
 ---
 
 [features](unfinished-article)

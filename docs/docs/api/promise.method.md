@@ -1,9 +1,8 @@
 ---
+title: Promise.method
 layout: api
 id: promise.method
-title: Promise.method
 ---
-
 
 [← Back To API Reference](/docs/api-reference.html)
 <div class="api-code-section"><markdown>

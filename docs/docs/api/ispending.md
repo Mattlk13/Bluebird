@@ -1,9 +1,8 @@
 ---
+title: ".isPending"
 layout: api
 id: ispending
-title: .isPending
 ---
-
 
 [← Back To API Reference](/docs/api-reference.html)
 <div class="api-code-section"><markdown>

@@ -1,9 +1,8 @@
 ---
+title: Collections
 layout: api
 id: collections
-title: Collections
 ---
-
 
 [← Back To API Reference](/docs/api-reference.html)
 <div class="api-code-section"><markdown>

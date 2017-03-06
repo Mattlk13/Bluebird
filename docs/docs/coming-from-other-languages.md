@@ -1,6 +1,6 @@
 ---
-id: coming-from-other-languages
 title: Coming from Other Languages
+id: coming-from-other-languages
 ---
 
 This page describes parallels of using promises in other languages. Promises as a pattern are very common in other languages and knowing what they map to in other languages might help you with grasping them conceptually

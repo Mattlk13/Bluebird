@@ -1,9 +1,8 @@
 ---
+title: ".asCallback"
 layout: api
 id: ascallback
-title: .asCallback
 ---
-
 
 [← Back To API Reference](/docs/api-reference.html)
 <div class="api-code-section"><markdown>

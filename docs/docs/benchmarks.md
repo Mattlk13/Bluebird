@@ -1,6 +1,6 @@
 ---
-id: benchmarks
 title: Benchmarks
+id: benchmarks
 ---
 
 Benchmarks have been ran with the following versions of modules.

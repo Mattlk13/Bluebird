@@ -1,9 +1,8 @@
 ---
+title: Promise.coroutine
 layout: api
 id: promise.coroutine
-title: Promise.coroutine
 ---
-
 
 [← Back To API Reference](/docs/api-reference.html)
 <div class="api-code-section"><markdown>

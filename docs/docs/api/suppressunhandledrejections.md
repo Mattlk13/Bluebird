@@ -1,9 +1,8 @@
 ---
+title: ".suppressUnhandledRejections"
 layout: api
 id: suppressunhandledrejections
-title: .suppressUnhandledRejections
 ---
-
 
 [← Back To API Reference](/docs/api-reference.html)
 <div class="api-code-section"><markdown>

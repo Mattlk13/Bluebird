@@ -1,6 +1,6 @@
 ---
-id: async-dialogs
 title: Async Dialogs
+id: async-dialogs
 ---
 
 [async-dialogs](unfinished-article)

@@ -1,9 +1,8 @@
 ---
+title: Promise.reject
 layout: api
 id: promise.reject
-title: Promise.reject
 ---
-
 
 [← Back To API Reference](/docs/api-reference.html)
 <div class="api-code-section"><markdown>

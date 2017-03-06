@@ -1,9 +1,8 @@
 ---
+title: OperationalError
 layout: api
 id: operationalerror
-title: OperationalError
 ---
-
 
 [← Back To API Reference](/docs/api-reference.html)
 <div class="api-code-section"><markdown>

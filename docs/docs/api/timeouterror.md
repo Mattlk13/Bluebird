@@ -1,9 +1,8 @@
 ---
+title: TimeoutError
 layout: api
 id: timeouterror
-title: TimeoutError
 ---
-
 
 [← Back To API Reference](/docs/api-reference.html)
 <div class="api-code-section"><markdown>

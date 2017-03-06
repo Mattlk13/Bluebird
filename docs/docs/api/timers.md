@@ -1,9 +1,8 @@
 ---
+title: Timers
 layout: api
 id: timers
-title: Timers
 ---
-
 
 [← Back To API Reference](/docs/api-reference.html)
 <div class="api-code-section"><markdown>

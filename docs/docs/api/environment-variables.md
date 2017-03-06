@@ -1,9 +1,8 @@
 ---
+title: Environment variables
 layout: api
 id: environment-variables
-title: Environment variables
 ---
-
 
 [← Back To API Reference](/docs/api-reference.html)
 <div class="api-code-section"><markdown>

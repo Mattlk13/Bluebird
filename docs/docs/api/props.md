@@ -1,9 +1,8 @@
 ---
+title: ".props"
 layout: api
 id: props
-title: .props
 ---
-
 
 [← Back To API Reference](/docs/api-reference.html)
 <div class="api-code-section"><markdown>

@@ -1,6 +1,6 @@
 ---
-id: why-bluebird
 title: Why bluebird?
+id: why-bluebird
 ---
 
 There are many third party promise libraries available for JavaScript and even the standard library contains a promise implementation in newer versions of browsers and node/io.js. This page will explore why one might use bluebird promises over other third party or the standard library implementations. For reasons why to use promises in general, see the [Why Promises?](why-promises.html) article.

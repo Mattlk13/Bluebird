@@ -1,6 +1,6 @@
 ---
-id: warning-explanations
 title: Warning Explanations
+id: warning-explanations
 ---
 
 [warning-explanations](unfinished-article)

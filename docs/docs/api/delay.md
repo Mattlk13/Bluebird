@@ -1,9 +1,8 @@
 ---
+title: ".delay"
 layout: api
 id: delay
-title: .delay
 ---
-
 
 [← Back To API Reference](/docs/api-reference.html)
 <div class="api-code-section"><markdown>

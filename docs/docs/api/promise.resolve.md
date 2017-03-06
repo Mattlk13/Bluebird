@@ -1,9 +1,8 @@
 ---
+title: Promise.resolve
 layout: api
 id: promise.resolve
-title: Promise.resolve
 ---
-
 
 [← Back To API Reference](/docs/api-reference.html)
 <div class="api-code-section"><markdown>

@@ -1,9 +1,8 @@
 ---
+title: Error management configuration
 layout: api
 id: error-management-configuration
-title: Error management configuration
 ---
-
 
 [← Back To API Reference](/docs/api-reference.html)
 <div class="api-code-section"><markdown>

@@ -1,9 +1,8 @@
 ---
+title: AggregateError
 layout: api
 id: aggregateerror
-title: AggregateError
 ---
-
 
 [← Back To API Reference](/docs/api-reference.html)
 <div class="api-code-section"><markdown>

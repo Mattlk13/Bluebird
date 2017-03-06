@@ -1,9 +1,8 @@
 ---
+title: ".catch"
 layout: api
 id: catch
-title: .catch
 ---
-
 
 [← Back To API Reference](/docs/api-reference.html)
 <div class="api-code-section"><markdown>

@@ -1,9 +1,8 @@
 ---
+title: Promise.coroutine.addYieldHandler
 layout: api
 id: promise.coroutine.addyieldhandler
-title: Promise.coroutine.addYieldHandler
 ---
-
 
 [← Back To API Reference](/docs/api-reference.html)
 <div class="api-code-section"><markdown>

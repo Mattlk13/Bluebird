@@ -1,9 +1,8 @@
 ---
+title: ".catchReturn"
 layout: api
 id: catchreturn
-title: .catchReturn
 ---
-
 
 [← Back To API Reference](/docs/api-reference.html)
 <div class="api-code-section"><markdown>

@@ -1,9 +1,8 @@
 ---
-id: api-reference
 title: API Reference
+id: api-reference
 redirect_from: "/docs/api/index.html"
 ---
-
 
 <div class="api-reference-menu">
 <markdown>

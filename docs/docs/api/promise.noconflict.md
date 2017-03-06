@@ -1,9 +1,8 @@
 ---
+title: Promise.noConflict
 layout: api
 id: promise.noconflict
-title: Promise.noConflict
 ---
-
 
 [← Back To API Reference](/docs/api-reference.html)
 <div class="api-code-section"><markdown>

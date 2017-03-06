@@ -1,6 +1,6 @@
 ---
-id: error-explanations
 title: Error Explanations
+id: error-explanations
 ---
 
  - [Error: Promise.promisify called on an object](#error-promise.promisify-called-on-an-object)

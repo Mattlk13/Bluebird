@@ -1,9 +1,8 @@
 ---
+title: ".finally"
 layout: api
 id: finally
-title: .finally
 ---
-
 
 [← Back To API Reference](/docs/api-reference.html)
 <div class="api-code-section"><markdown>

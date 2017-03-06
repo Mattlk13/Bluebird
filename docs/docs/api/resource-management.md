@@ -1,9 +1,8 @@
 ---
+title: Resource management
 layout: api
 id: resource-management
-title: Resource management
 ---
-
 
 [← Back To API Reference](/docs/api-reference.html)
 <div class="api-code-section"><markdown>

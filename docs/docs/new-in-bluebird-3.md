@@ -1,6 +1,6 @@
 ---
-id: new-in-bluebird-3
 title: New in bluebird 3.0
+id: new-in-bluebird-3
 ---
 
 ##Cancellation overhaul

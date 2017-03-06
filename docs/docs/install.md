@@ -1,6 +1,6 @@
 ---
-id: install
 title: Installation
+id: install
 ---
 
 - [Browser installation](#browser-installation)

@@ -1,9 +1,8 @@
 ---
+title: ".reflect"
 layout: api
 id: reflect
-title: .reflect
 ---
-
 
 [← Back To API Reference](/docs/api-reference.html)
 <div class="api-code-section"><markdown>

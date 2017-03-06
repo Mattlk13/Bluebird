@@ -1,9 +1,8 @@
 ---
+title: Promise.onPossiblyUnhandledRejection
 layout: api
 id: promise.onpossiblyunhandledrejection
-title: Promise.onPossiblyUnhandledRejection
 ---
-
 
 [← Back To API Reference](/docs/api-reference.html)
 <div class="api-code-section"><markdown>

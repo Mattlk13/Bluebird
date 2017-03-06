@@ -1,9 +1,8 @@
 ---
+title: Promise.longStackTraces
 layout: api
 id: promise.longstacktraces
-title: Promise.longStackTraces
 ---
-
 
 [← Back To API Reference](/docs/api-reference.html)
 <div class="api-code-section"><markdown>

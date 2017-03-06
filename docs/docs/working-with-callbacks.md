@@ -1,6 +1,6 @@
 ---
-id: working-with-callbacks
 title: Working with Callbacks
+id: working-with-callbacks
 ---
 
 This page explains how to interface your code with existing callback APIs and libraries you're using. We'll see that making bluebird work with callback APIs is not only easy - it's also fast.

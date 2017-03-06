@@ -1,9 +1,8 @@
 ---
+title: ".call"
 layout: api
 id: call
-title: .call
 ---
-
 
 [← Back To API Reference](/docs/api-reference.html)
 <div class="api-code-section"><markdown>

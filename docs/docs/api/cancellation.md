@@ -1,9 +1,8 @@
 ---
+title: Cancellation
 layout: api
 id: cancellation
-title: Cancellation
 ---
-
 
 [← Back To API Reference](/docs/api-reference.html)
 <div class="api-code-section"><markdown>

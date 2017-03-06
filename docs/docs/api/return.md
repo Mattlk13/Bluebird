@@ -1,9 +1,8 @@
 ---
+title: ".return"
 layout: api
 id: return
-title: .return
 ---
-
 
 [← Back To API Reference](/docs/api-reference.html)
 <div class="api-code-section"><markdown>

@@ -1,9 +1,8 @@
 ---
+title: ".reduce"
 layout: api
 id: reduce
-title: .reduce
 ---
-
 
 [← Back To API Reference](/docs/api-reference.html)
 <div class="api-code-section"><markdown>

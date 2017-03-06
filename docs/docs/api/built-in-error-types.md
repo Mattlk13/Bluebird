@@ -1,9 +1,8 @@
 ---
+title: Built-in error types
 layout: api
 id: built-in-error-types
-title: Built-in error types
 ---
-
 
 [← Back To API Reference](/docs/api-reference.html)
 <div class="api-code-section"><markdown>

@@ -1,9 +1,8 @@
 ---
+title: Promise.delay
 layout: api
 id: promise.delay
-title: Promise.delay
 ---
-
 
 [← Back To API Reference](/docs/api-reference.html)
 <div class="api-code-section"><markdown>

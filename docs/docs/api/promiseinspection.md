@@ -1,9 +1,8 @@
 ---
+title: PromiseInspection
 layout: api
 id: promiseinspection
-title: PromiseInspection
 ---
-
 
 [← Back To API Reference](/docs/api-reference.html)
 <div class="api-code-section"><markdown>

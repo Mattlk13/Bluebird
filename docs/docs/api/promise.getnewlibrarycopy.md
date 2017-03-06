@@ -1,9 +1,8 @@
 ---
+title: Promise.getNewLibraryCopy
 layout: api
 id: promise.getnewlibrarycopy
-title: Promise.getNewLibraryCopy
 ---
-
 
 [← Back To API Reference](/docs/api-reference.html)
 <div class="api-code-section"><markdown>

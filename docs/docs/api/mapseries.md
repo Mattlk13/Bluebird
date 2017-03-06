@@ -1,9 +1,8 @@
 ---
+title: ".mapseries"
 layout: api
 id: mapseries
-title: .mapseries
 ---
-
 
 [← Back To API Reference](/docs/api-reference.html)
 <div class="api-code-section"><markdown>

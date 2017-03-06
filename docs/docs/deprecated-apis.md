@@ -1,6 +1,6 @@
 ---
-id: deprecated-apis
 title: Deprecated APIs
+id: deprecated-apis
 ---
 
 [deprecated-apis](unfinished-article)

@@ -1,9 +1,8 @@
 ---
+title: Core
 layout: api
 id: core
-title: Core
 ---
-
 
 [← Back To API Reference](/docs/api-reference.html)
 <div class="api-code-section"><markdown>

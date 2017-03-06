@@ -1,6 +1,6 @@
 ---
-id: download-api-reference
 title: Download API Reference
+id: download-api-reference
 ---
 
 In order to use the documentation offline (without a stable internet connection).

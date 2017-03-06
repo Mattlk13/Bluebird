@@ -1,9 +1,8 @@
 ---
+title: ".all"
 layout: api
 id: all
-title: .all
 ---
-
 
 [← Back To API Reference](/docs/api-reference.html)
 <div class="api-code-section"><markdown>

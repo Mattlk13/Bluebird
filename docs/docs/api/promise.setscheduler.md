@@ -1,9 +1,8 @@
 ---
+title: Promise.setScheduler
 layout: api
 id: promise.setscheduler
-title: Promise.setScheduler
 ---
-
 
 [← Back To API Reference](/docs/api-reference.html)
 <div class="api-code-section"><markdown>

@@ -1,6 +1,6 @@
 ---
-id: why-promises
 title: Why Promises?
+id: why-promises
 ---
 
 Promises are a concurrency primitive with a proven track record and language integration in most modern programming languages. They have been extensively studied since the 80s and will make your life much easier.

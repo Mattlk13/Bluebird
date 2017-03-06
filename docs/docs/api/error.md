@@ -1,9 +1,8 @@
 ---
+title: ".error"
 layout: api
 id: error
-title: .error
 ---
-
 
 [← Back To API Reference](/docs/api-reference.html)
 <div class="api-code-section"><markdown>

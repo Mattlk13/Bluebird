@@ -1,9 +1,8 @@
 ---
+title: ".throw"
 layout: api
 id: throw
-title: .throw
 ---
-
 
 [← Back To API Reference](/docs/api-reference.html)
 <div class="api-code-section"><markdown>

@@ -1,9 +1,8 @@
 ---
+title: Promisification
 layout: api
 id: promisification
-title: Promisification
 ---
-
 
 [← Back To API Reference](/docs/api-reference.html)
 <div class="api-code-section"><markdown>

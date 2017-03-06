@@ -1,9 +1,8 @@
 ---
+title: ".tap"
 layout: api
 id: tap
-title: .tap
 ---
-
 
 [← Back To API Reference](/docs/api-reference.html)
 <div class="api-code-section"><markdown>

@@ -1,6 +1,6 @@
 ---
-id: anti-patterns
 title: Anti-patterns
+id: anti-patterns
 ---
 
 This page will contain common promise anti-patterns that are exercised in the wild.

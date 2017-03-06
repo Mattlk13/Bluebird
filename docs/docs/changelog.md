@@ -1,6 +1,6 @@
 ---
-id: changelog
 title: Changelog
+id: changelog
 ---
 
 ## 3.4.7 (2016-12-22)

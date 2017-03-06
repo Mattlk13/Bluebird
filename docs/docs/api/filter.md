@@ -1,9 +1,8 @@
 ---
+title: ".filter"
 layout: api
 id: filter
-title: .filter
 ---
-
 
 [← Back To API Reference](/docs/api-reference.html)
 <div class="api-code-section"><markdown>
